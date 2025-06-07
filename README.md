@@ -1,30 +1,84 @@
-# Berita news website
+# 📰 BeritaKita
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Welcome to **BeritaKita**!
+Your friendly neighborhood news aggregator, powered by modern web tech and a touch of vibe coding magic.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ifal/v0-berita-news-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/3RdMyYil4jI)
+🌐 **Check out the live website:** [beritakita.vercel.app](https://beritakita.vercel.app)
 
-## Overview
+![Screenshot of BeritaKita](https://res.cloudinary.com/dyjxcujz4/image/upload/f_webp/v1749339662/screenshot-beritakita.png)
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🚀 What is This?
 
-## Deployment
+BeritaKita _(Indonesian for "Our News")_ brings you the freshest headlines from Indonesia’s top news sources—all in one place and always up to date! This project is built with:
 
-Your project is live at:
+- ⚡️ **Next.js** (for super-fast rendering and routing)
+- 🎨 **Tailwind CSS** (for beautiful, effortless styling)
+- 🛠️ **TypeScript** (for type-safe, reliable code)
 
-**[https://vercel.com/ifal/v0-berita-news-website](https://vercel.com/ifal/v0-berita-news-website)**
+---
 
-## Build your app
+## 🌐 News Sources
 
-Continue building your app on:
+- CNN Indonesia
+- CNBC Indonesia
+- Republika
+- Kumparan
+- VOA Indonesia
 
-**[https://v0.dev/chat/projects/3RdMyYil4jI](https://v0.dev/chat/projects/3RdMyYil4jI)**
+Enjoy a variety of perspectives and stories, all served up from multiple trusted outlets.
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 🙏 Huge Thanks
+
+This project wouldn’t be possible without the fantastic [@satyawikananda/berita-indo-api](https://github.com/satyawikananda/berita-indo-api).  
+A massive thank you for providing open and easy access to Indonesian news!
+
+---
+
+## 💡 Special Shout-Out: Vibe Coding
+
+This project was built with the help of “vibe coding” using v0  
+Gotta keep up with the technology!
+
+---
+
+## 🏁 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/ifalfahri/beritakita.git
+
+2. **Install dependencies**
+   ```bash
+    npm install
+   ```
+3. **Run locally**
+   
+    ```bash
+    npm run dev
+    ```
+
+---
+## 👾 Contributing
+
+Pull requests, ideas, and bug reports are always welcome!  
+Let’s make BeritaKita even better—together.
+
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by [ifalfahri](https://github.com/ifalfahri)
+
+---
+
+## 📄 License
+
+MIT
+
+---
+
+Stay informed, stay curious!
+**BeritaKita** – News for everyone.
