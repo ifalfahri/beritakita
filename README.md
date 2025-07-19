@@ -16,7 +16,7 @@ BeritaKita _(Indonesian for "Our News")_ brings you the freshest headlines from 
 - 🎨 **Tailwind CSS** (for beautiful, effortless styling)
 - 🛠️ **TypeScript** (for type-safe, reliable code)
 
----
+
 
 ## 🌐 News Sources
 
@@ -28,21 +28,21 @@ BeritaKita _(Indonesian for "Our News")_ brings you the freshest headlines from 
 
 Enjoy a variety of perspectives and stories, all served up from multiple trusted outlets.
 
----
+
 
 ## 🙏 Huge Thanks
 
 This project wouldn’t be possible without the fantastic [@satyawikananda/berita-indo-api](https://github.com/satyawikananda/berita-indo-api).  
 A massive thank you for providing open and easy access to Indonesian news!
 
----
+
 
 ## 💡 Special Shout-Out: Vibe Coding
 
 This project was built with the help of “vibe coding” using v0  
 Gotta keep up with the technology!
 
----
+
 
 ## 🏁 Getting Started
 
@@ -60,19 +60,19 @@ Gotta keep up with the technology!
     npm run dev
     ```
 
----
+
 ## 👾 Contributing
 
 Pull requests, ideas, and bug reports are always welcome!  
 Let’s make BeritaKita even better—together.
 
----
+
 
 ## 🧑‍💻 Author
 
 Made with ❤️ by [ifalfahri](https://github.com/ifalfahri)
 
----
+
 
 ## 📄 License
 
